@@ -25,7 +25,7 @@ vinnieshell main.py [HOST] [PORT]
 Or if you used github:
 ```
 cd ReverseShellHandler
-pip install -r Requirements.txt
+pip install -r requirements.txt
 cd vinnieshell
 python3 main.py [HOST] [PORT]
 ```
