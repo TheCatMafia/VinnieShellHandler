@@ -19,7 +19,7 @@ git clone git@github.com:TheCatMafia/VinnieShellHandler.git
 ```
 # Usage:
 ```
-vinnieshell main.py [HOST] [PORT]
+vinnieshell [HOST] [PORT]
 ```
 
 Or if you used github:
