@@ -14,7 +14,7 @@ pip install vinnieshell
 ```
 Or download from github:
 ```
-git clone https://github.com/TheCatMafia/ReverseShellHandler/
+git clone git@github.com:TheCatMafia/VinnieShellHandler.git
 
 ```
 # Usage:
@@ -39,7 +39,7 @@ python3 main.py [HOST] [PORT]
 ```
 /‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒\  
 
-       Vinnie is based 
+          Vinnie is based 
  
 \‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒/ 
                 ____     _/ 
