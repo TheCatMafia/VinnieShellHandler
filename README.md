@@ -5,19 +5,32 @@
 * Can handle multiple shells from same host/network
 * Able to switch between different hosts
 
-# Usage
 
+# Install 
+
+With pip
+```
+pip install vinnieshell
+```
+Or download from github:
 ```
 git clone https://github.com/TheCatMafia/ReverseShellHandler/
+
+```
+# Usage:
+```
+vinnieshell main.py [HOST] [PORT]
 ```
 
+Or if you used github:
 ```
 cd ReverseShellHandler
-```
-
-```
+pip install -r Requirements.txt
+cd vinnieshell
 python3 main.py [HOST] [PORT]
 ```
+
+
 
 # Have fun shelling!
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import color
+import vinnieshell.color
 import sys
 
 class Log():

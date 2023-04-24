@@ -17,7 +17,7 @@ import json
 import pprint
 import sys
 
-from log import Log
+from vinnieshell.log import Log
 
 slaves = {}
 masters = {}
